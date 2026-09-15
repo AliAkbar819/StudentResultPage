@@ -1,0 +1,2 @@
+# StudentResultPage
+Student Result Portal
